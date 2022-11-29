@@ -7,8 +7,9 @@ public class Concat {
 	@Test
 	public void concatString() {
 		// TODO Auto-generated method stub
-
-		System.out.println("Hello "+ "Harshith "+"R");
+		String firstname = "Harshith";
+		String lastname = "R";
+		System.out.println("Hello "+ firstname +" " + lastname);
 		
 	}
 
